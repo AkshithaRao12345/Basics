@@ -1,4 +1,4 @@
 # Basics 
-shift + tab => docstring
-ctrl + enter => execute cell code
-shift + Enter => execute cell and shift control to next cell
+shift + tab => docstring <br>
+ctrl + enter => execute cell code <br>
+shift + Enter => execute cell and shift control to next cell <br>
